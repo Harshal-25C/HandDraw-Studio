@@ -1,3 +1,6 @@
-## HandDraw-Studio👨‍💻📈
+## HandDraw-Studio✏️📈
+---
 
 ### Project Structure🏗️
+
+### Author👨‍💻
